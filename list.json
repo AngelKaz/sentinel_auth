@@ -1,6 +1,6 @@
 {
   "DEVKEYFORKAZ": {
     "ip": "all",
-    "expire": "NEVER"
+    "expires": "NEVER"
   }
 }
